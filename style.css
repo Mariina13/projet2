@@ -49,11 +49,14 @@ body{
 	font-family: Arial;
 	font-size: 1.8em;
 	margin: 0 auto;
+	margin-top: 5%;
+	margin-bottom: 2.5%
 }
 article{
 	margin: 0 auto;
 	width: 80%;
 	color:#7B68EE;
+	padding: 5%;
 }
 h1,h2,h3{
 	font-size:1.6;
