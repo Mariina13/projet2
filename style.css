@@ -53,4 +53,9 @@ body{
 article{
 	margin: 0 auto;
 	width: 80%;
+	color:#7B68EE;
+}
+h1,h2,h3{
+	font-size:1.6;
+	color: #CD5C5C;
 }
